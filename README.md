@@ -1,4 +1,4 @@
-```json
+```dart
 
 if(brain!=empty){
  keepCoding();
@@ -6,5 +6,6 @@ if(brain!=empty){
 else{
  orderCoffee();
 }
+
 ```
 
