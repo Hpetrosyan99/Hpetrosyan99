@@ -1,7 +1,10 @@
+```json
+
 if(brain!=empty){
-keepCoding();
+ keepCoding();
 }
-else {
-orderCoffee();
+else{
+ orderCoffee();
 }
+```
 
