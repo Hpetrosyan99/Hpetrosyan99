@@ -1,9 +1,9 @@
 ```dart
 
-if(brain!=empty){
+if(brain != empty) {
  keepCoding();
 }
-else{
+else {
  orderCoffee();
 }
 
