@@ -1,7 +1,7 @@
 ```dart
 
 
-if(brain != empty) {
+if(brain.isNotEmpty) {
  keepCoding();
 }
 else {
